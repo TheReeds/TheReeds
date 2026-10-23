@@ -65,7 +65,7 @@
         <img src="https://img.shields.io/badge/Multi--tenant-555?style=flat-square"/>
         <img src="https://img.shields.io/badge/IA-8A2BE2?style=flat-square"/>
       </p>
-      <a href="https://github.com/TheReeds/TU-REPO">Código</a> · <a href="https://TU-DEMO.com">Demo</a>
+      <a href="https://github.com/TheReeds/ferreos">Código</a> · <a href="https://demo-a.george159357852.workers.dev/">Demo</a>
     </td>
     <td width="50%" valign="top">
       <img src="./assets/logyx.png" alt="LOGYX" width="100%"/>
@@ -77,7 +77,7 @@
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
         <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white"/>
       </p>
-      <a href="https://github.com/TheReeds/TU-REPO">Código</a> · <a href="https://TU-DEMO.com">Demo</a>
+      <a href="https://github.com/TheReeds/LogyxNew">Código</a> · <a href="https://blank.com">Demo(Proximo)</a>
     </td>
   </tr>
   <tr>
@@ -88,16 +88,16 @@
       <p>
         <img src="https://img.shields.io/badge/Móvil-02569B?style=flat-square"/>
       </p>
-      <a href="https://github.com/TheReeds/TU-REPO">Código</a> · <a href="https://TU-DEMO.com">Demo</a>
+      <a href="https://github.com/TheReeds/kumpan">Código</a> · <a href="https://TU-DEMO.com">Demo</a>
     </td>
     <td width="50%" valign="top">
       <img src="./assets/capachica.png" alt="App CAPACHICA" width="100%"/>
       <h3>📱 App CAPACHICA</h3>
-      <p>App móvil publicada en Play Store para la Municipalidad Distrital de Capachica, como proyecto de vinculación con el medio de la UPeU.</p>
+      <p>App móvil publicada en Play Store para la Municipalidad Distrital de Capachica</p>
       <p>
         <img src="https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=googleplay&logoColor=white"/>
       </p>
-      <a href="https://play.google.com/store/apps/details?id=TU-ID">Play Store</a>
+      <a href="https://play.google.com/store/apps/details?id=pe.capachica.turismo&hl=es_PE">Play Store</a>
     </td>
   </tr>
 </table>
