@@ -16,11 +16,11 @@
 
 ## 👋 Sobre mí
 
-- 🎓 Estudiante de Ingeniería de Sistemas en la **UPeU** (Juliaca)
+- 🎓 Estudiante de Ingeniería de Sistemas en la **UPeU**
 - 🚀 Fundador en proyectos de software en etapa temprana (**LOGYX**, **FerreOS**)
 - 🛠️ Me gusta construir productos completos: backend, web, móvil, y también videojuegos
 - 🤖 Interés en robótica, IoT y visión por computador
-- 📫 Contacto: _tu-correo@ejemplo.com_ · [LinkedIn](https://linkedin.com/in/TU-USUARIO)
+- 📫 Contacto: _george159357852@gmail.com_ · [LinkedIn](https://www.linkedin.com/in/jorge-luis-gutierrez-miranda-502565363/)
 
 ---
 
